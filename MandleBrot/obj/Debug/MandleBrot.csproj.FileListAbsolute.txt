@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\bin\Debug\MandleBrot.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\bin\Debug\MandleBrot.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\bin\Debug\MandleBrot.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\obj\Debug\MandleBrot.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\obj\Debug\MandleBrot.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\obj\Debug\MandleBrot.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\obj\Debug\MandleBrot.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\obj\Debug\MandleBrot.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MandleBrot\MandleBrot\obj\Debug\MandleBrot.pdb
